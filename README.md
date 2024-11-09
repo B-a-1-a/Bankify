@@ -1,0 +1,2 @@
+# Bankify
+App wooo
